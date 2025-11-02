@@ -109,9 +109,9 @@ Join our Discord server for support and updates:
 
 ## 👨‍💻 Developer
 
-**Developed by: TNC Host**
+**Developed by: Khaled AbuWalid**
 **Support Server:** https://discord.gg/tnc
 
 ---
 
-© 2024 TNC Host - All Rights Reserved
+© 2026 TNC Host - All Rights Reserved
