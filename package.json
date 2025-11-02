@@ -1,0 +1,24 @@
+{
+    "name": "tnc-broadcast-bot",
+    "version": "2.5.0",
+    "description": "Advanced Discord broadcast bot with Anti-Ban Protection & Scheduling - TNC Host v2.5",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "TNC Host",
+    "license": "ISC",
+    "keywords": [
+        "discord",
+        "bot",
+        "broadcast",
+        "anti-ban",
+        "tnc",
+        "scheduling",
+        "advanced"
+    ],
+    "dependencies": {
+        "discord.js": "^14.11.0",
+        "dotenv": "^16.3.1"
+    }
+}
